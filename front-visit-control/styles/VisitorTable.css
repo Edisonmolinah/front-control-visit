@@ -1,0 +1,14 @@
+.visitor-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f0f0f0; /* Color de fondo */
+  }
+  
+  .visitor-table th, .visitor-table td {
+    border: 1px solid #ccc; /* Bordes */
+    padding: 8px;
+  }
+  
+  .visitor-table th {
+    background-color: #e0e0e0; /* Color de fondo para las celdas de encabezado */
+  }
